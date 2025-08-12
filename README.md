@@ -1,5 +1,7 @@
 cd bmi-api
+
 npm install
+
 npm install express
 
 To start the server run:
